@@ -8,4 +8,4 @@
 
 - Method 2
 
-        ALTER SEQUENCE payments_id_seq RESTART WITH 22;
+        ALTER SEQUENCE test_id_seq RESTART WITH 100;
