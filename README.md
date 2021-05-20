@@ -9,3 +9,8 @@
 - Method 2
 
         ALTER SEQUENCE test_id_seq RESTART WITH 100;
+        
+        
+ ### Reference
+ 
+ - https://www.postgresqltutorial.com/postgresql-serial/
